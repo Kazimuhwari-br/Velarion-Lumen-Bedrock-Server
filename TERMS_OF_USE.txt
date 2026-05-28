@@ -5,9 +5,14 @@ TERMS OF USE
 By accessing, viewing, downloading or interacting with any files from this repository, you automatically agree to the following terms:
 
 1. Ownership
-   All assets remain the exclusive property of z𝐕elarion 𝐋umen 龍.
+   All assets, repository materials, branding resources and visual contents remain the exclusive property of z𝐕elarion 𝐋umen 龍.
 
-2. Restrictions
+2. AI-Assisted Content
+   Some visual materials may contain AI-assisted generation, transformation or editing used as part of the creative workflow.
+
+These assets were created through customized editing, composition, project integration and creative direction, and are not considered public-domain or randomly generated resources.
+
+3. Restrictions
    You may NOT:
 
 * Reupload repository assets
@@ -16,13 +21,13 @@ By accessing, viewing, downloading or interacting with any files from this repos
 * Commercialize repository resources
 * Remove ownership information or watermark
 * Use repository materials for AI training
-* Claim ownership of any asset
+* Claim ownership of any contained asset
 * Mirror or archive repository contents elsewhere
 
-3. Public Access
-   Public access to this repository does not grant redistribution rights, modification rights or ownership rights.
+4. Public Access
+   Public access to this repository does not grant redistribution rights, ownership rights or modification rights.
 
-4. Enforcement
+5. Enforcement
    Unauthorized usage may result in:
 
 * DMCA takedown requests
@@ -31,10 +36,10 @@ By accessing, viewing, downloading or interacting with any files from this repos
 * Copyright claims
 * Additional legal actions where applicable
 
-5. Revocation
+6. Revocation
    The owner reserves the right to revoke permissions or update these terms at any time.
 
-6. Official Project Information
+7. Official Project Information
 
 Project:
 z𝐕elarion 𝐋umen 龍
