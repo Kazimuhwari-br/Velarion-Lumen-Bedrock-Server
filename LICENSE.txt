@@ -4,24 +4,28 @@ Copyright © 2026 z𝐕elarion 𝐋umen 龍
 
 All Rights Reserved.
 
-All artworks, renders, wallpapers, icons, visual assets, graphical resources, designs, textures, user interface elements, character concepts and associated materials contained in this repository are the exclusive intellectual property of z𝐕elarion 𝐋umen 龍.
+All artworks, renders, wallpapers, icons, visual assets, graphical resources, interface elements, character concepts and associated materials contained in this repository are part of the official z𝐕elarion 𝐋umen 龍 project.
 
-Unauthorized use, reproduction, redistribution, modification, resale, extraction, mirroring, monetization, AI training usage or commercial exploitation of any contained material is strictly prohibited.
+Some repository materials may include AI-assisted generation, transformation or editing as part of the creative workflow. These processes were used under direct creative direction, customization and project integration by the project owner.
+
+All final compositions, edited assets, project branding, visual organization, customizations and repository contents remain exclusive property of z𝐕elarion 𝐋umen 龍.
+
+Unauthorized use, reproduction, redistribution, modification, resale, republishing, extraction, mirroring, monetization, AI dataset usage or commercial exploitation of any contained material is strictly prohibited.
 
 Permission is NOT granted to:
 
 * Reupload repository assets
-* Redistribute files or images
+* Redistribute repository contents
 * Use assets in other Discord servers or projects
-* Remove credits, ownership marks or watermark
-* Modify and republish repository contents
+* Remove ownership marks or watermark
+* Modify and republish repository materials
 * Sell or monetize contained assets
-* Use materials for NFTs, datasets or machine learning purposes
-* Claim ownership of any visual resource
+* Use materials for NFTs, AI datasets or machine learning purposes
+* Claim ownership of any visual resource or project asset
 
-Public visibility of this repository does NOT grant permission to use, copy or redistribute its contents.
+Public visibility of this repository does NOT grant permission to use, redistribute or claim repository contents.
 
-These assets are protected under international copyright and intellectual property laws.
+These materials are protected under applicable copyright, branding and intellectual property laws.
 
 Violations may result in:
 
