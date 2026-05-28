@@ -54,4 +54,4 @@ https://discord.gg/qwRtDUpYJt
 GitHub:
 https://github.com/Kazimuhwari-br
 
-© 2022 - 2026 z𝐕elarion 𝐋umen 龍 — All Rights Reserved.
+© 2022–2026 z𝐕elarion 𝐋umen 龍 — All Rights Reserved.
