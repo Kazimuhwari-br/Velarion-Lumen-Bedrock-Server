@@ -1,0 +1,56 @@
+# TERMS_OF_USE.txt
+
+TERMS OF USE
+
+By accessing, viewing, downloading or interacting with any files from this repository, you automatically agree to the following terms:
+
+1. Ownership
+   All assets remain the exclusive property of z𝐕elarion 𝐋umen 龍.
+
+2. Restrictions
+   You may NOT:
+
+* Reupload repository assets
+* Redistribute files or contents
+* Modify and republish materials
+* Commercialize repository resources
+* Remove ownership information or watermark
+* Use repository materials for AI training
+* Claim ownership of any asset
+* Mirror or archive repository contents elsewhere
+
+3. Public Access
+   Public access to this repository does not grant redistribution rights, modification rights or ownership rights.
+
+4. Enforcement
+   Unauthorized usage may result in:
+
+* DMCA takedown requests
+* GitHub copyright reports
+* Discord reports
+* Copyright claims
+* Additional legal actions where applicable
+
+5. Revocation
+   The owner reserves the right to revoke permissions or update these terms at any time.
+
+6. Official Project Information
+
+Project:
+z𝐕elarion 𝐋umen 龍
+
+Type:
+Minecraft Bedrock Server & Discord Community
+
+Official Contacts:
+[velarionlumenbds@gmail.com](mailto:velarionlumenbds@gmail.com)
+[kazinhuhgmrs@gmail.com](mailto:kazinhuhgmrs@gmail.com)
+
+Owner:
+Kazimuhwari
+
+Official Links:
+https://discord.gg/qwRtDUpYJt
+https://github.com/Kazimuhwari-br
+
+© 2026 z𝐕elarion 𝐋umen 龍 — All Rights Reserved.
