@@ -1,5 +1,8 @@
 # README.md
 
+⚠️ This repository is NOT open-source.
+All contents are protected under copyright law.
+
 # z𝐕elarion 𝐋umen 龍 Assets
 
 Official visual assets and graphical resources used for the Minecraft Bedrock Server and Discord Community project.
